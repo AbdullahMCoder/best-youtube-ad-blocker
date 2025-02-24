@@ -1,6 +1,6 @@
 # superior-ad-blocker
 
-Uses youtube embeds to get rid of ads.
+Uses youtube embeds to get rid of ads. (Cause youtube embeds got no ads)
 
 Made when I was 12 for my own use case and works perfectly for me
 
