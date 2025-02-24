@@ -1,4 +1,4 @@
-# superior-ad-blocker
+# best-youtube-ad-blocker
 
 Uses youtube embeds to get rid of ads. (Cause youtube embeds got no ads)
 
