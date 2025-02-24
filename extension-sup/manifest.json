@@ -1,0 +1,32 @@
+{
+    "name": "Ad blocker",
+    "version": "1.0.0",
+    "description": "No set-up required ad blocker that always works",
+    "permissions": [
+        "scripting",
+        "activeTab",
+        "storage",
+        "tabs",
+        "activeTab"
+      ],
+      "host_permissions": [
+        "https://www.youtube.com/*"
+      ],
+      "content_scripts":
+      [
+      {
+        "matches":["https://www.youtube.com/*"],
+        "js":["page.js"]
+      }
+    ],
+    "manifest_version": 3,
+    "author": "https://github.com/AbdullahMCoder/superior-ad-blocker",
+    "action": {
+        "default_title": "Ad blocker"
+    },
+    "icons": {
+      "16": "img.png",
+      "48": "img.png",
+      "128": "img.png"
+    }    
+}
