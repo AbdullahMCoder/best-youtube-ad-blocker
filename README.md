@@ -1,0 +1,1 @@
+# superior-ad-blocker
